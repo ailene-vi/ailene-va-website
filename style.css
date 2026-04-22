@@ -14,6 +14,13 @@ body {
 .navbar {
     background: linear-gradient(90deg, #440E03, #180501);
 }
+.brand-text {
+  font-family: 'Playfair Display', serif; /* Elegant font */
+  font-size: 1.5rem;                      /* Slightly larger */
+  font-weight: 600;                       /* Bold for emphasis */
+  color: #FFF8DC;                         /* Cream tone for elegance */
+  letter-spacing: 2px;                    /* Adds spacing for logo feel */
+}
 .navbar-brand {
     font-family: 'Merriweather';
     color: #C2B280  !important;
